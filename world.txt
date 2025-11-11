@@ -1,1 +1,1 @@
-goobye git
+ssh로 클론도 완료t
